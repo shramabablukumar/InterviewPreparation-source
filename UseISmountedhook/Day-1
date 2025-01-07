@@ -1,0 +1,5 @@
+what is use of UseIsmounted() hook;
+* the UseIsmounted() hook in react is a custome hook that checks weather the components is still mounted in the Dom
+* The useIsMounted() hook helps prevent such errors by keeping track of whether the component is still mounted.
+useState is used to create a state for tracking whether the component is mounted.
+useEffect is used to set this state to true when the component is mounted and false when it unmounts
