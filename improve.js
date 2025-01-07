@@ -8,6 +8,7 @@
 // }
 // console.log(CalculateSum([1, 2, 3]));
 
+
 // step-2 Review the code effieciency
 // O(n)This function is O(n), which is optimal for summing an array, so we can’t improve the algorithm complexity.
 // step -3  Check for Readability
